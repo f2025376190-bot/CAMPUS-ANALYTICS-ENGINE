@@ -1,0 +1,7 @@
+roll,course_code,semester,status,quiz_avg,assignment_avg,mid,final,total,grade
+BSAI-24-001,PF101,Spring2026,enrolled,84.67,90.00,35.00,52.00,87.17,A
+BSAI-24-001,CAL101,Spring2026,enrolled,70.00,75.00,29.00,43.00,72.83,B
+BSAI-24-002,PF101,Spring2026,enrolled,62.33,70.00,25.00,38.00,64.42,C
+BSAI-24-003,PF101,Spring2026,enrolled,91.67,92.00,38.00,56.00,93.67,A
+BSAI-24-004,PF101,Spring2026,enrolled,50.00,55.00,22.00,30.00,52.50,F
+BSAI-24-006,CAL101,Spring2026,enrolled,,,,,,

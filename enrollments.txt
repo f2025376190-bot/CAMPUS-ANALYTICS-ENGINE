@@ -1,0 +1,7 @@
+code,title,credits,seats,prereq
+PF101,Programming Fundamentals,4,40,NONE
+CAL101,Calculus I,3,35,NONE
+AI101,Intro to AI,3,30,PF101
+DS101,Data Structures,4,35,PF101
+ENG101,English Communication,2,45,NONE
+DB101,Database Systems,3,30,PF101
